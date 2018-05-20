@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
 	bijay soren -- web developer -- bsoren
+	Kiaan soren	   kiddo junior developer	kiaanu
 	Ishaan soren 	kiddo developer	ishsore
 	Kiaan Soren		super junior developer	cutekiaan
 
