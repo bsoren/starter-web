@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
 	bijay soren -- web developer -- bsoren
+	Ishaan soren 	kiddo developer	ishsore
 
 # THANKS
 
