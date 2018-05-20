@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-## master branch - adding conflicting changes.
+## rebase-example branch -  added this line
+
 # TEAM
 
     <name> -- <role> -- <twitter>
