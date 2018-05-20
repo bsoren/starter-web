@@ -5,3 +5,5 @@ User-agent: *
 Added text to demostrate changes in newbranch.
 
 This line was added from local master branch.
+
+for stash example
