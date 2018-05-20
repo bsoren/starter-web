@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	bijay soren -- web developer -- bsoren
 
 # THANKS
 
