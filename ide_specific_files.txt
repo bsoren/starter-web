@@ -1,1 +1,2 @@
 this is ide specific file. It should not be pushed to remote master branch
+Second line.
