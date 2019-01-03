@@ -1,1 +1,2 @@
 First line in the project1-file.txt
+Added second line from new-branch
