@@ -4,15 +4,17 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-	bijay soren -- web developer -- bsoren
-	Kiaan soren	   kiddo junior developer	kiaanu
-	Hello world
-	Ishaan soren 	kiddo developer	ishsore
-	Kiaan Soren		super junior developer	cutekiaan
+ bijay soren -- web developer -- bsoren
+ Kiaan soren    kiddo junior developer kiaanu
+ Hello world
+ Ishaan soren  kiddo developer ishsore
+ Kiaan Soren  super junior developer cutekiaan
 
 # THANKS
 
-    <name>
+    Bijay Kumar Soren
+    Kiaan Atulya Soren
+    Isshan Kautilya Soren
 
 # TECHNOLOGY COLOPHON
 
