@@ -1,0 +1,17 @@
+# robotstxt.org/
+
+User-agent: *
+
+Added text to demostrate changes in newbranch.
+
+This line was added from local master branch.
+
+for stash example
+
+A new line added.
+
+Added this line directly from github
+
+Blah blah
+
+One more line
